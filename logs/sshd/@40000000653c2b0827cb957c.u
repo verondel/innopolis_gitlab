@@ -1,0 +1,8 @@
+2023-10-27_21:13:21.62995 Server listening on 0.0.0.0 port 22.
+2023-10-27_21:13:21.63076 Server listening on :: port 22.
+2023-10-27_21:17:23.66208 Accepted publickey for git from 172.23.0.1 port 33324 ssh2: RSA SHA256:tAI2+mHK9OgH6P20ZQltEcD3yJb7eINgdzZlw04eJ2U
+2023-10-27_21:17:24.76476 Received disconnect from 172.23.0.1 port 33324:11: disconnected by user
+2023-10-27_21:17:24.76479 Disconnected from user git 172.23.0.1 port 33324
+2023-10-27_21:20:08.77702 Accepted publickey for git from 172.23.0.1 port 41156 ssh2: RSA SHA256:tAI2+mHK9OgH6P20ZQltEcD3yJb7eINgdzZlw04eJ2U
+2023-10-27_21:20:10.86561 Received disconnect from 172.23.0.1 port 41156:11: disconnected by user
+2023-10-27_21:20:10.86575 Disconnected from user git 172.23.0.1 port 41156

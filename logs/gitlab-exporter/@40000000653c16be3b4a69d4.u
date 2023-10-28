@@ -1,0 +1,439 @@
+2023-10-27_19:42:06.89486 127.0.0.1 - - [27/Oct/2023:19:42:06 UTC] "GET /ruby HTTP/1.1" 200 1086
+2023-10-27_19:42:06.89496 - -> /ruby
+2023-10-27_19:42:07.31784 127.0.0.1 - - [27/Oct/2023:19:42:06 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:42:07.31797 - -> /sidekiq
+2023-10-27_19:42:12.54627 127.0.0.1 - - [27/Oct/2023:19:42:12 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:42:12.54709 - -> /database
+2023-10-27_19:42:22.09018 127.0.0.1 - - [27/Oct/2023:19:42:21 UTC] "GET /ruby HTTP/1.1" 200 1083
+2023-10-27_19:42:22.09211 - -> /ruby
+2023-10-27_19:42:23.17468 127.0.0.1 - - [27/Oct/2023:19:42:21 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:42:23.17471 - -> /sidekiq
+2023-10-27_19:42:27.22957 127.0.0.1 - - [27/Oct/2023:19:42:27 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:42:27.22977 - -> /database
+2023-10-27_19:42:36.93392 127.0.0.1 - - [27/Oct/2023:19:42:36 UTC] "GET /ruby HTTP/1.1" 200 1086
+2023-10-27_19:42:36.93405 - -> /ruby
+2023-10-27_19:42:37.20004 127.0.0.1 - - [27/Oct/2023:19:42:36 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:42:37.20045 - -> /sidekiq
+2023-10-27_19:42:42.36924 127.0.0.1 - - [27/Oct/2023:19:42:42 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:42:42.36939 - -> /database
+2023-10-27_19:42:51.23530 127.0.0.1 - - [27/Oct/2023:19:42:51 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:42:51.23869 - -> /sidekiq
+2023-10-27_19:42:51.70766 127.0.0.1 - - [27/Oct/2023:19:42:51 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:42:51.70769 - -> /ruby
+2023-10-27_19:42:57.26211 127.0.0.1 - - [27/Oct/2023:19:42:57 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:42:57.26279 - -> /database
+2023-10-27_19:43:06.43645 127.0.0.1 - - [27/Oct/2023:19:43:06 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:43:06.43648 - -> /sidekiq
+2023-10-27_19:43:06.71187 127.0.0.1 - - [27/Oct/2023:19:43:06 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:43:06.71190 - -> /ruby
+2023-10-27_19:43:12.22811 127.0.0.1 - - [27/Oct/2023:19:43:12 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:43:12.22845 - -> /database
+2023-10-27_19:43:21.23994 127.0.0.1 - - [27/Oct/2023:19:43:21 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:43:21.24008 - -> /sidekiq
+2023-10-27_19:43:21.71236 127.0.0.1 - - [27/Oct/2023:19:43:21 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:43:21.71292 - -> /ruby
+2023-10-27_19:43:27.20356 127.0.0.1 - - [27/Oct/2023:19:43:27 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:43:27.20375 - -> /database
+2023-10-27_19:43:36.16201 127.0.0.1 - - [27/Oct/2023:19:43:36 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:43:36.16258 - -> /sidekiq
+2023-10-27_19:43:36.69102 127.0.0.1 - - [27/Oct/2023:19:43:36 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:43:36.69116 - -> /ruby
+2023-10-27_19:43:42.19957 127.0.0.1 - - [27/Oct/2023:19:43:42 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:43:42.19960 - -> /database
+2023-10-27_19:43:51.30113 127.0.0.1 - - [27/Oct/2023:19:43:51 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:43:51.30131 - -> /sidekiq
+2023-10-27_19:43:51.69707 127.0.0.1 - - [27/Oct/2023:19:43:51 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:43:51.69719 - -> /ruby
+2023-10-27_19:43:57.21530 127.0.0.1 - - [27/Oct/2023:19:43:57 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:43:57.21536 - -> /database
+2023-10-27_19:44:06.18388 127.0.0.1 - - [27/Oct/2023:19:44:06 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:44:06.18428 - -> /sidekiq
+2023-10-27_19:44:06.69152 127.0.0.1 - - [27/Oct/2023:19:44:06 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:44:06.69175 - -> /ruby
+2023-10-27_19:44:12.21409 127.0.0.1 - - [27/Oct/2023:19:44:12 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:44:12.21412 - -> /database
+2023-10-27_19:44:21.37949 127.0.0.1 - - [27/Oct/2023:19:44:21 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:44:21.37953 - -> /sidekiq
+2023-10-27_19:44:21.69553 127.0.0.1 - - [27/Oct/2023:19:44:21 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:44:21.69581 - -> /ruby
+2023-10-27_19:44:27.21428 127.0.0.1 - - [27/Oct/2023:19:44:27 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:44:27.21462 - -> /database
+2023-10-27_19:44:36.24423 127.0.0.1 - - [27/Oct/2023:19:44:36 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:44:36.24425 - -> /sidekiq
+2023-10-27_19:44:36.69597 127.0.0.1 - - [27/Oct/2023:19:44:36 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:44:36.69650 - -> /ruby
+2023-10-27_19:44:42.20715 127.0.0.1 - - [27/Oct/2023:19:44:42 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:44:42.20778 - -> /database
+2023-10-27_19:44:51.13043 127.0.0.1 - - [27/Oct/2023:19:44:51 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:44:51.13062 - -> /sidekiq
+2023-10-27_19:44:51.69174 127.0.0.1 - - [27/Oct/2023:19:44:51 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:44:51.69234 - -> /ruby
+2023-10-27_19:44:57.20271 127.0.0.1 - - [27/Oct/2023:19:44:57 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:44:57.20285 - -> /database
+2023-10-27_19:45:06.10384 127.0.0.1 - - [27/Oct/2023:19:45:06 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:45:06.10388 - -> /sidekiq
+2023-10-27_19:45:06.69243 127.0.0.1 - - [27/Oct/2023:19:45:06 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:45:06.69320 - -> /ruby
+2023-10-27_19:45:12.19593 127.0.0.1 - - [27/Oct/2023:19:45:12 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:45:12.19630 - -> /database
+2023-10-27_19:45:21.10778 127.0.0.1 - - [27/Oct/2023:19:45:21 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:45:21.10809 - -> /sidekiq
+2023-10-27_19:45:21.69486 127.0.0.1 - - [27/Oct/2023:19:45:21 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:45:21.69489 - -> /ruby
+2023-10-27_19:45:27.22525 127.0.0.1 - - [27/Oct/2023:19:45:27 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:45:27.22526 - -> /database
+2023-10-27_19:45:36.34122 127.0.0.1 - - [27/Oct/2023:19:45:36 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:45:36.34151 - -> /sidekiq
+2023-10-27_19:45:36.69074 127.0.0.1 - - [27/Oct/2023:19:45:36 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:45:36.69095 - -> /ruby
+2023-10-27_19:45:42.21390 127.0.0.1 - - [27/Oct/2023:19:45:42 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:45:42.21449 - -> /database
+2023-10-27_19:45:52.01488 127.0.0.1 - - [27/Oct/2023:19:45:51 UTC] "GET /ruby HTTP/1.1" 200 1086
+2023-10-27_19:45:52.01681 - -> /ruby
+2023-10-27_19:45:52.62277 127.0.0.1 - - [27/Oct/2023:19:45:51 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:45:52.62336 - -> /sidekiq
+2023-10-27_19:45:57.23962 127.0.0.1 - - [27/Oct/2023:19:45:57 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:45:57.24020 - -> /database
+2023-10-27_19:46:06.15079 127.0.0.1 - - [27/Oct/2023:19:46:06 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:46:06.15138 - -> /sidekiq
+2023-10-27_19:46:06.69225 127.0.0.1 - - [27/Oct/2023:19:46:06 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:46:06.69263 - -> /ruby
+2023-10-27_19:46:12.22841 127.0.0.1 - - [27/Oct/2023:19:46:12 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:46:12.22892 - -> /database
+2023-10-27_19:46:21.11347 127.0.0.1 - - [27/Oct/2023:19:46:21 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:46:21.11400 - -> /sidekiq
+2023-10-27_19:46:21.70670 127.0.0.1 - - [27/Oct/2023:19:46:21 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:46:21.70678 - -> /ruby
+2023-10-27_19:46:27.24078 127.0.0.1 - - [27/Oct/2023:19:46:27 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:46:27.24081 - -> /database
+2023-10-27_19:46:36.12641 127.0.0.1 - - [27/Oct/2023:19:46:36 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:46:36.12657 - -> /sidekiq
+2023-10-27_19:46:36.69301 127.0.0.1 - - [27/Oct/2023:19:46:36 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:46:36.69389 - -> /ruby
+2023-10-27_19:46:42.20814 127.0.0.1 - - [27/Oct/2023:19:46:42 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:46:42.20834 - -> /database
+2023-10-27_19:46:51.10755 127.0.0.1 - - [27/Oct/2023:19:46:51 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:46:51.10759 - -> /sidekiq
+2023-10-27_19:46:51.69383 127.0.0.1 - - [27/Oct/2023:19:46:51 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:46:51.69385 - -> /ruby
+2023-10-27_19:46:57.20772 127.0.0.1 - - [27/Oct/2023:19:46:57 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:46:57.20775 - -> /database
+2023-10-27_19:47:06.10833 127.0.0.1 - - [27/Oct/2023:19:47:06 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:47:06.10901 - -> /sidekiq
+2023-10-27_19:47:06.69127 127.0.0.1 - - [27/Oct/2023:19:47:06 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:47:06.69160 - -> /ruby
+2023-10-27_19:47:12.21043 127.0.0.1 - - [27/Oct/2023:19:47:12 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:47:12.21061 - -> /database
+2023-10-27_19:47:21.12417 127.0.0.1 - - [27/Oct/2023:19:47:21 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:47:21.12437 - -> /sidekiq
+2023-10-27_19:47:21.69201 127.0.0.1 - - [27/Oct/2023:19:47:21 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:47:21.69220 - -> /ruby
+2023-10-27_19:47:27.20966 127.0.0.1 - - [27/Oct/2023:19:47:27 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:47:27.21018 - -> /database
+2023-10-27_19:47:36.19219 127.0.0.1 - - [27/Oct/2023:19:47:36 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:47:36.19287 - -> /sidekiq
+2023-10-27_19:47:36.74752 127.0.0.1 - - [27/Oct/2023:19:47:36 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:47:36.74801 - -> /ruby
+2023-10-27_19:47:42.21394 127.0.0.1 - - [27/Oct/2023:19:47:42 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:47:42.21423 - -> /database
+2023-10-27_19:47:51.42713 127.0.0.1 - - [27/Oct/2023:19:47:51 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:47:51.42789 - -> /sidekiq
+2023-10-27_19:47:51.69113 127.0.0.1 - - [27/Oct/2023:19:47:51 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:47:51.69126 - -> /ruby
+2023-10-27_19:47:57.21554 127.0.0.1 - - [27/Oct/2023:19:47:57 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:47:57.21565 - -> /database
+2023-10-27_19:48:06.10965 127.0.0.1 - - [27/Oct/2023:19:48:06 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:48:06.10991 - -> /sidekiq
+2023-10-27_19:48:06.69101 127.0.0.1 - - [27/Oct/2023:19:48:06 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:48:06.69104 - -> /ruby
+2023-10-27_19:48:12.19630 127.0.0.1 - - [27/Oct/2023:19:48:12 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:48:12.19641 - -> /database
+2023-10-27_19:48:21.99856 127.0.0.1 - - [27/Oct/2023:19:48:21 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:48:21.99919 - -> /sidekiq
+2023-10-27_19:48:22.01512 127.0.0.1 - - [27/Oct/2023:19:48:21 UTC] "GET /ruby HTTP/1.1" 200 1079
+2023-10-27_19:48:22.01545 - -> /ruby
+2023-10-27_19:48:27.79126 127.0.0.1 - - [27/Oct/2023:19:48:27 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:48:27.79195 - -> /database
+2023-10-27_19:48:36.28950 127.0.0.1 - - [27/Oct/2023:19:48:36 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:48:36.29003 - -> /sidekiq
+2023-10-27_19:48:36.71532 127.0.0.1 - - [27/Oct/2023:19:48:36 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:48:36.71795 - -> /ruby
+2023-10-27_19:48:42.48828 127.0.0.1 - - [27/Oct/2023:19:48:42 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:48:42.49524 - -> /database
+2023-10-27_19:48:51.91559 127.0.0.1 - - [27/Oct/2023:19:48:51 UTC] "GET /ruby HTTP/1.1" 200 1086
+2023-10-27_19:48:51.91640 - -> /ruby
+2023-10-27_19:48:52.08440 127.0.0.1 - - [27/Oct/2023:19:48:51 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:48:52.08641 - -> /sidekiq
+2023-10-27_19:48:57.27076 127.0.0.1 - - [27/Oct/2023:19:48:57 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:48:57.27079 - -> /database
+2023-10-27_19:49:06.27307 127.0.0.1 - - [27/Oct/2023:19:49:06 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:49:06.27806 - -> /sidekiq
+2023-10-27_19:49:06.70460 127.0.0.1 - - [27/Oct/2023:19:49:06 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:49:06.70514 - -> /ruby
+2023-10-27_19:49:12.28332 127.0.0.1 - - [27/Oct/2023:19:49:12 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:49:12.28385 - -> /database
+2023-10-27_19:49:21.72539 127.0.0.1 - - [27/Oct/2023:19:49:21 UTC] "GET /ruby HTTP/1.1" 200 1086
+2023-10-27_19:49:21.72542 - -> /ruby
+2023-10-27_19:49:21.85510 127.0.0.1 - - [27/Oct/2023:19:49:21 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:49:21.85546 - -> /sidekiq
+2023-10-27_19:49:27.25613 127.0.0.1 - - [27/Oct/2023:19:49:27 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:49:27.25626 - -> /database
+2023-10-27_19:49:36.10713 127.0.0.1 - - [27/Oct/2023:19:49:36 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:49:36.10729 - -> /sidekiq
+2023-10-27_19:49:36.69168 127.0.0.1 - - [27/Oct/2023:19:49:36 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:49:36.69180 - -> /ruby
+2023-10-27_19:49:42.20401 127.0.0.1 - - [27/Oct/2023:19:49:42 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:49:42.20430 - -> /database
+2023-10-27_19:49:51.58783 127.0.0.1 - - [27/Oct/2023:19:49:51 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:49:51.58814 - -> /sidekiq
+2023-10-27_19:49:51.69296 127.0.0.1 - - [27/Oct/2023:19:49:51 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:49:51.69380 - -> /ruby
+2023-10-27_19:49:57.23957 127.0.0.1 - - [27/Oct/2023:19:49:57 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:49:57.23986 - -> /database
+2023-10-27_19:50:06.29174 127.0.0.1 - - [27/Oct/2023:19:50:06 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:50:06.29177 - -> /sidekiq
+2023-10-27_19:50:06.69187 127.0.0.1 - - [27/Oct/2023:19:50:06 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:50:06.69200 - -> /ruby
+2023-10-27_19:50:12.19428 127.0.0.1 - - [27/Oct/2023:19:50:12 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:50:12.19489 - -> /database
+2023-10-27_19:50:21.11830 127.0.0.1 - - [27/Oct/2023:19:50:21 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:50:21.11939 - -> /sidekiq
+2023-10-27_19:50:21.69057 127.0.0.1 - - [27/Oct/2023:19:50:21 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:50:21.69081 - -> /ruby
+2023-10-27_19:50:27.20766 127.0.0.1 - - [27/Oct/2023:19:50:27 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:50:27.20805 - -> /database
+2023-10-27_19:50:36.81474 127.0.0.1 - - [27/Oct/2023:19:50:36 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:50:36.81545 - -> /sidekiq
+2023-10-27_19:50:36.81584 127.0.0.1 - - [27/Oct/2023:19:50:36 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:50:36.81617 - -> /ruby
+2023-10-27_19:50:42.28699 127.0.0.1 - - [27/Oct/2023:19:50:42 UTC] "GET /database HTTP/1.1" 200 1949
+2023-10-27_19:50:42.28714 - -> /database
+2023-10-27_19:50:51.38986 127.0.0.1 - - [27/Oct/2023:19:50:51 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:50:51.39033 - -> /sidekiq
+2023-10-27_19:50:51.69247 127.0.0.1 - - [27/Oct/2023:19:50:51 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:50:51.69262 - -> /ruby
+2023-10-27_19:50:57.20477 127.0.0.1 - - [27/Oct/2023:19:50:57 UTC] "GET /database HTTP/1.1" 200 1856
+2023-10-27_19:50:57.20520 - -> /database
+2023-10-27_19:51:06.42846 127.0.0.1 - - [27/Oct/2023:19:51:06 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:51:06.42902 - -> /sidekiq
+2023-10-27_19:51:06.69108 127.0.0.1 - - [27/Oct/2023:19:51:06 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:51:06.69139 - -> /ruby
+2023-10-27_19:51:12.20507 127.0.0.1 - - [27/Oct/2023:19:51:12 UTC] "GET /database HTTP/1.1" 200 1856
+2023-10-27_19:51:12.20523 - -> /database
+2023-10-27_19:51:21.13380 127.0.0.1 - - [27/Oct/2023:19:51:21 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:51:21.13465 - -> /sidekiq
+2023-10-27_19:51:21.69085 127.0.0.1 - - [27/Oct/2023:19:51:21 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:51:21.69140 - -> /ruby
+2023-10-27_19:51:27.19749 127.0.0.1 - - [27/Oct/2023:19:51:27 UTC] "GET /database HTTP/1.1" 200 1856
+2023-10-27_19:51:27.19821 - -> /database
+2023-10-27_19:51:36.10845 127.0.0.1 - - [27/Oct/2023:19:51:36 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:51:36.10889 - -> /sidekiq
+2023-10-27_19:51:36.69044 127.0.0.1 - - [27/Oct/2023:19:51:36 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:51:36.69091 - -> /ruby
+2023-10-27_19:51:42.19579 127.0.0.1 - - [27/Oct/2023:19:51:42 UTC] "GET /database HTTP/1.1" 200 1856
+2023-10-27_19:51:42.19592 - -> /database
+2023-10-27_19:51:51.15986 127.0.0.1 - - [27/Oct/2023:19:51:51 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:51:51.16017 - -> /sidekiq
+2023-10-27_19:51:51.69240 127.0.0.1 - - [27/Oct/2023:19:51:51 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:51:51.69308 - -> /ruby
+2023-10-27_19:51:57.20983 127.0.0.1 - - [27/Oct/2023:19:51:57 UTC] "GET /database HTTP/1.1" 200 1856
+2023-10-27_19:51:57.21052 - -> /database
+2023-10-27_19:52:06.09904 127.0.0.1 - - [27/Oct/2023:19:52:06 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:52:06.09926 - -> /sidekiq
+2023-10-27_19:52:06.69273 127.0.0.1 - - [27/Oct/2023:19:52:06 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:52:06.69292 - -> /ruby
+2023-10-27_19:52:12.19249 127.0.0.1 - - [27/Oct/2023:19:52:12 UTC] "GET /database HTTP/1.1" 200 1856
+2023-10-27_19:52:12.19297 - -> /database
+2023-10-27_19:52:21.13111 127.0.0.1 - - [27/Oct/2023:19:52:21 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:52:21.13134 - -> /sidekiq
+2023-10-27_19:52:21.69093 127.0.0.1 - - [27/Oct/2023:19:52:21 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:52:21.69113 - -> /ruby
+2023-10-27_19:52:27.19326 127.0.0.1 - - [27/Oct/2023:19:52:27 UTC] "GET /database HTTP/1.1" 200 1856
+2023-10-27_19:52:27.19345 - -> /database
+2023-10-27_19:52:36.12174 127.0.0.1 - - [27/Oct/2023:19:52:36 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:52:36.12176 - -> /sidekiq
+2023-10-27_19:52:36.69133 127.0.0.1 - - [27/Oct/2023:19:52:36 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:52:36.69151 - -> /ruby
+2023-10-27_19:52:42.23126 127.0.0.1 - - [27/Oct/2023:19:52:42 UTC] "GET /database HTTP/1.1" 200 1856
+2023-10-27_19:52:42.23138 - -> /database
+2023-10-27_19:52:51.15554 127.0.0.1 - - [27/Oct/2023:19:52:51 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:52:51.15568 - -> /sidekiq
+2023-10-27_19:52:51.69188 127.0.0.1 - - [27/Oct/2023:19:52:51 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:52:51.69245 - -> /ruby
+2023-10-27_19:52:57.20365 127.0.0.1 - - [27/Oct/2023:19:52:57 UTC] "GET /database HTTP/1.1" 200 1856
+2023-10-27_19:52:57.20394 - -> /database
+2023-10-27_19:53:06.42522 127.0.0.1 - - [27/Oct/2023:19:53:06 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:53:06.42546 - -> /sidekiq
+2023-10-27_19:53:06.71329 127.0.0.1 - - [27/Oct/2023:19:53:06 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:53:06.71331 - -> /ruby
+2023-10-27_19:53:12.20914 127.0.0.1 - - [27/Oct/2023:19:53:12 UTC] "GET /database HTTP/1.1" 200 1856
+2023-10-27_19:53:12.20917 - -> /database
+2023-10-27_19:53:21.18535 127.0.0.1 - - [27/Oct/2023:19:53:21 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:53:21.18538 - -> /sidekiq
+2023-10-27_19:53:21.71637 127.0.0.1 - - [27/Oct/2023:19:53:21 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:53:21.71691 - -> /ruby
+2023-10-27_19:53:27.20496 127.0.0.1 - - [27/Oct/2023:19:53:27 UTC] "GET /database HTTP/1.1" 200 1856
+2023-10-27_19:53:27.20520 - -> /database
+2023-10-27_19:53:36.09766 127.0.0.1 - - [27/Oct/2023:19:53:36 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:53:36.09830 - -> /sidekiq
+2023-10-27_19:53:36.69197 127.0.0.1 - - [27/Oct/2023:19:53:36 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:53:36.69224 - -> /ruby
+2023-10-27_19:53:42.19508 127.0.0.1 - - [27/Oct/2023:19:53:42 UTC] "GET /database HTTP/1.1" 200 1856
+2023-10-27_19:53:42.19521 - -> /database
+2023-10-27_19:53:51.14401 127.0.0.1 - - [27/Oct/2023:19:53:51 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:53:51.14420 - -> /sidekiq
+2023-10-27_19:53:51.69190 127.0.0.1 - - [27/Oct/2023:19:53:51 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:53:51.69290 - -> /ruby
+2023-10-27_19:53:57.21423 127.0.0.1 - - [27/Oct/2023:19:53:57 UTC] "GET /database HTTP/1.1" 200 1856
+2023-10-27_19:53:57.21442 - -> /database
+2023-10-27_19:54:06.36691 127.0.0.1 - - [27/Oct/2023:19:54:06 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:54:06.36802 - -> /sidekiq
+2023-10-27_19:54:06.72681 127.0.0.1 - - [27/Oct/2023:19:54:06 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:54:06.72700 - -> /ruby
+2023-10-27_19:54:12.24370 127.0.0.1 - - [27/Oct/2023:19:54:12 UTC] "GET /database HTTP/1.1" 200 1856
+2023-10-27_19:54:12.24389 - -> /database
+2023-10-27_19:54:21.17908 127.0.0.1 - - [27/Oct/2023:19:54:21 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:54:21.17949 - -> /sidekiq
+2023-10-27_19:54:21.69929 127.0.0.1 - - [27/Oct/2023:19:54:21 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:54:21.69949 - -> /ruby
+2023-10-27_19:54:27.23185 127.0.0.1 - - [27/Oct/2023:19:54:27 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:54:27.23200 - -> /database
+2023-10-27_19:54:36.50576 127.0.0.1 - - [27/Oct/2023:19:54:36 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:54:36.50641 - -> /sidekiq
+2023-10-27_19:54:36.71206 127.0.0.1 - - [27/Oct/2023:19:54:36 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:54:36.71209 - -> /ruby
+2023-10-27_19:54:42.24219 127.0.0.1 - - [27/Oct/2023:19:54:42 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:54:42.24896 - -> /database
+2023-10-27_19:54:51.35233 127.0.0.1 - - [27/Oct/2023:19:54:51 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:54:51.35310 - -> /sidekiq
+2023-10-27_19:54:51.77514 127.0.0.1 - - [27/Oct/2023:19:54:51 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:54:51.77517 - -> /ruby
+2023-10-27_19:54:57.32574 127.0.0.1 - - [27/Oct/2023:19:54:57 UTC] "GET /database HTTP/1.1" 200 1912
+2023-10-27_19:54:57.32576 - -> /database
+2023-10-27_19:55:06.71876 127.0.0.1 - - [27/Oct/2023:19:55:06 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:55:06.71884 - -> /sidekiq
+2023-10-27_19:55:06.75499 127.0.0.1 - - [27/Oct/2023:19:55:06 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:55:06.75659 - -> /ruby
+2023-10-27_19:55:12.61238 127.0.0.1 - - [27/Oct/2023:19:55:12 UTC] "GET /database HTTP/1.1" 200 1949
+2023-10-27_19:55:12.61245 - -> /database
+2023-10-27_19:55:22.32673 127.0.0.1 - - [27/Oct/2023:19:55:21 UTC] "GET /ruby HTTP/1.1" 200 1086
+2023-10-27_19:55:22.32675 - -> /ruby
+2023-10-27_19:55:22.57838 127.0.0.1 - - [27/Oct/2023:19:55:21 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:55:22.58686 - -> /sidekiq
+2023-10-27_19:55:27.27530 127.0.0.1 - - [27/Oct/2023:19:55:27 UTC] "GET /database HTTP/1.1" 200 1949
+2023-10-27_19:55:27.27551 - -> /database
+2023-10-27_19:55:36.10542 127.0.0.1 - - [27/Oct/2023:19:55:36 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:55:36.10586 - -> /sidekiq
+2023-10-27_19:55:36.70668 127.0.0.1 - - [27/Oct/2023:19:55:36 UTC] "GET /ruby HTTP/1.1" 200 1081
+2023-10-27_19:55:36.70739 - -> /ruby
+2023-10-27_19:55:42.69145 127.0.0.1 - - [27/Oct/2023:19:55:42 UTC] "GET /database HTTP/1.1" 200 1856
+2023-10-27_19:55:42.69162 - -> /database
+2023-10-27_19:57:15.03786 E, [2023-10-27T19:57:15.037354 #381] ERROR -- : Error connecting to the Redis: Connection lost (EPIPE)
+2023-10-27_19:57:15.20020 127.0.0.1 - - [27/Oct/2023:19:57:14 UTC] "GET /sidekiq HTTP/1.1" 200 0
+2023-10-27_19:57:15.20634 - -> /sidekiq
+2023-10-27_19:57:16.13134 127.0.0.1 - - [27/Oct/2023:19:57:15 UTC] "GET /ruby HTTP/1.1" 200 1079
+2023-10-27_19:57:16.13153 - -> /ruby
+2023-10-27_19:57:21.74460 127.0.0.1 - - [27/Oct/2023:19:57:21 UTC] "GET /database HTTP/1.1" 200 1856
+2023-10-27_19:57:21.74598 - -> /database
+2023-10-27_19:57:30.11272 2023-10-27 19:57:30 - Redis::ConnectionError - Connection lost (EPIPE):
+2023-10-27_19:57:30.11275 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/redis-4.4.0/lib/redis/client.rb:292:in `rescue in io'
+2023-10-27_19:57:30.11275 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/redis-4.4.0/lib/redis/client.rb:284:in `io'
+2023-10-27_19:57:30.11276 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/redis-4.4.0/lib/redis/client.rb:304:in `write'
+2023-10-27_19:57:30.11276 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/redis-4.4.0/lib/redis/client.rb:262:in `block (3 levels) in process'
+2023-10-27_19:57:30.11276 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/redis-4.4.0/lib/redis/client.rb:256:in `each'
+2023-10-27_19:57:30.11276 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/redis-4.4.0/lib/redis/client.rb:256:in `block (2 levels) in process'
+2023-10-27_19:57:30.11277 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/redis-4.4.0/lib/redis/client.rb:406:in `ensure_connected'
+2023-10-27_19:57:30.11277 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/redis-4.4.0/lib/redis/client.rb:255:in `block in process'
+2023-10-27_19:57:30.11343 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/redis-4.4.0/lib/redis/client.rb:342:in `logging'
+2023-10-27_19:57:30.11343 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/redis-4.4.0/lib/redis/client.rb:254:in `process'
+2023-10-27_19:57:30.11344 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/redis-4.4.0/lib/redis/client.rb:220:in `call_pipelined'
+2023-10-27_19:57:30.11344 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/redis-4.4.0/lib/redis/client.rb:187:in `block in call_pipeline'
+2023-10-27_19:57:30.11345 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/redis-4.4.0/lib/redis/client.rb:330:in `with_reconnect'
+2023-10-27_19:57:30.11345 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/redis-4.4.0/lib/redis/client.rb:185:in `call_pipeline'
+2023-10-27_19:57:30.11345 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/redis-4.4.0/lib/redis.rb:2495:in `block in pipelined'
+2023-10-27_19:57:30.11345 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/redis-4.4.0/lib/redis.rb:70:in `block in synchronize'
+2023-10-27_19:57:30.11345 	/opt/gitlab/embedded/lib/ruby/3.0.0/monitor.rb:202:in `synchronize'
+2023-10-27_19:57:30.11346 	/opt/gitlab/embedded/lib/ruby/3.0.0/monitor.rb:202:in `mon_synchronize'
+2023-10-27_19:57:30.11346 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/redis-4.4.0/lib/redis.rb:70:in `synchronize'
+2023-10-27_19:57:30.11346 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/redis-4.4.0/lib/redis.rb:2491:in `pipelined'
+2023-10-27_19:57:30.11346 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sidekiq-6.4.0/lib/sidekiq/api.rb:57:in `block in fetch_stats_fast!'
+2023-10-27_19:57:30.11347 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sidekiq-6.4.0/lib/sidekiq.rb:100:in `block in redis'
+2023-10-27_19:57:30.11347 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/connection_pool-2.2.5/lib/connection_pool.rb:63:in `block (2 levels) in with'
+2023-10-27_19:57:30.11347 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/connection_pool-2.2.5/lib/connection_pool.rb:62:in `handle_interrupt'
+2023-10-27_19:57:30.11348 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/connection_pool-2.2.5/lib/connection_pool.rb:62:in `block in with'
+2023-10-27_19:57:30.11348 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/connection_pool-2.2.5/lib/connection_pool.rb:59:in `handle_interrupt'
+2023-10-27_19:57:30.11348 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/connection_pool-2.2.5/lib/connection_pool.rb:59:in `with'
+2023-10-27_19:57:30.11348 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sidekiq-6.4.0/lib/sidekiq.rb:97:in `redis'
+2023-10-27_19:57:30.11348 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sidekiq-6.4.0/lib/sidekiq/api.rb:56:in `fetch_stats_fast!'
+2023-10-27_19:57:30.11349 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sidekiq-6.4.0/lib/sidekiq/api.rb:11:in `initialize'
+2023-10-27_19:57:30.11349 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/gitlab-exporter-13.4.1/lib/gitlab_exporter/sidekiq.rb:158:in `new'
+2023-10-27_19:57:30.11349 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/gitlab-exporter-13.4.1/lib/gitlab_exporter/sidekiq.rb:158:in `_probe_stats'
+2023-10-27_19:57:30.11350 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/gitlab-exporter-13.4.1/lib/gitlab_exporter/sidekiq.rb:54:in `block in probe_stats'
+2023-10-27_19:57:30.11350 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/gitlab-exporter-13.4.1/lib/gitlab_exporter/sidekiq.rb:224:in `block in with_sidekiq'
+2023-10-27_19:57:30.11350 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/gitlab-exporter-13.4.1/lib/gitlab_exporter/sidekiq.rb:217:in `synchronize'
+2023-10-27_19:57:30.11350 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/gitlab-exporter-13.4.1/lib/gitlab_exporter/sidekiq.rb:217:in `with_sidekiq'
+2023-10-27_19:57:30.11351 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/gitlab-exporter-13.4.1/lib/gitlab_exporter/sidekiq.rb:54:in `probe_stats'
+2023-10-27_19:57:30.11351 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/gitlab-exporter-13.4.1/lib/gitlab_exporter/prober.rb:18:in `block (3 levels) in probe_all'
+2023-10-27_19:57:30.11351 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/gitlab-exporter-13.4.1/lib/gitlab_exporter/prober.rb:17:in `each'
+2023-10-27_19:57:30.11352 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/gitlab-exporter-13.4.1/lib/gitlab_exporter/prober.rb:17:in `block (2 levels) in probe_all'
+2023-10-27_19:57:30.11352 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/gitlab-exporter-13.4.1/lib/gitlab_exporter/prober.rb:15:in `each'
+2023-10-27_19:57:30.11352 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/gitlab-exporter-13.4.1/lib/gitlab_exporter/prober.rb:15:in `block in probe_all'
+2023-10-27_19:57:30.11353 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/gitlab-exporter-13.4.1/lib/gitlab_exporter/prober.rb:14:in `each'
+2023-10-27_19:57:30.11353 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/gitlab-exporter-13.4.1/lib/gitlab_exporter/prober.rb:14:in `probe_all'
+2023-10-27_19:57:30.11353 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/gitlab-exporter-13.4.1/lib/gitlab_exporter/web_exporter.rb:139:in `block (2 levels) in setup_probes'
+2023-10-27_19:57:30.11353 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:1697:in `call'
+2023-10-27_19:57:30.11354 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:1697:in `block in compile!'
+2023-10-27_19:57:30.11354 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:1030:in `block (3 levels) in route!'
+2023-10-27_19:57:30.11354 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:1049:in `route_eval'
+2023-10-27_19:57:30.11355 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:1030:in `block (2 levels) in route!'
+2023-10-27_19:57:30.11355 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:1078:in `block in process_route'
+2023-10-27_19:57:30.11355 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:1076:in `catch'
+2023-10-27_19:57:30.11355 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:1076:in `process_route'
+2023-10-27_19:57:30.11355 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:1028:in `block in route!'
+2023-10-27_19:57:30.11356 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:1025:in `each'
+2023-10-27_19:57:30.11356 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:1025:in `route!'
+2023-10-27_19:57:30.11356 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:1147:in `block in dispatch!'
+2023-10-27_19:57:30.11357 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:1119:in `block in invoke'
+2023-10-27_19:57:30.11357 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:1119:in `catch'
+2023-10-27_19:57:30.11357 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:1119:in `invoke'
+2023-10-27_19:57:30.11357 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:1142:in `dispatch!'
+2023-10-27_19:57:30.11357 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:956:in `block in call!'
+2023-10-27_19:57:30.11358 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:1119:in `block in invoke'
+2023-10-27_19:57:30.11358 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:1119:in `catch'
+2023-10-27_19:57:30.11358 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:1119:in `invoke'
+2023-10-27_19:57:30.11358 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:956:in `call!'
+2023-10-27_19:57:30.11359 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:945:in `call'
+2023-10-27_19:57:30.11359 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/gitlab-exporter-13.4.1/lib/gitlab_exporter/web_exporter.rb:51:in `call'
+2023-10-27_19:57:30.11359 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/rack-2.2.8/lib/rack/logger.rb:17:in `call'
+2023-10-27_19:57:30.11360 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/gitlab-exporter-13.4.1/lib/gitlab_exporter/web_exporter.rb:25:in `call'
+2023-10-27_19:57:30.11360 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/rack-protection-2.2.4/lib/rack/protection/xss_header.rb:18:in `call'
+2023-10-27_19:57:30.11360 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/rack-protection-2.2.4/lib/rack/protection/path_traversal.rb:16:in `call'
+2023-10-27_19:57:30.11360 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/rack-protection-2.2.4/lib/rack/protection/json_csrf.rb:26:in `call'
+2023-10-27_19:57:30.11361 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/rack-protection-2.2.4/lib/rack/protection/base.rb:50:in `call'
+2023-10-27_19:57:30.11361 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/rack-protection-2.2.4/lib/rack/protection/base.rb:50:in `call'
+2023-10-27_19:57:30.11361 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/rack-protection-2.2.4/lib/rack/protection/frame_options.rb:31:in `call'
+2023-10-27_19:57:30.11362 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/rack-2.2.8/lib/rack/null_logger.rb:11:in `call'
+2023-10-27_19:57:30.11362 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/rack-2.2.8/lib/rack/head.rb:12:in `call'
+2023-10-27_19:57:30.11362 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/show_exceptions.rb:22:in `call'
+2023-10-27_19:57:30.11362 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:218:in `call'
+2023-10-27_19:57:30.11363 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:2004:in `call'
+2023-10-27_19:57:30.11363 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:1564:in `block in call'
+2023-10-27_19:57:30.11363 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:1780:in `synchronize'
+2023-10-27_19:57:30.11363 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/sinatra-2.2.4/lib/sinatra/base.rb:1564:in `call'
+2023-10-27_19:57:30.11363 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/rack-2.2.8/lib/rack/handler/webrick.rb:95:in `service'
+2023-10-27_19:57:30.11364 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:140:in `service'
+2023-10-27_19:57:30.11364 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:96:in `run'
+2023-10-27_19:57:30.11364 	/opt/gitlab/embedded/lib/ruby/gems/3.0.0/gems/webrick-1.8.1/lib/webrick/server.rb:310:in `block in start_thread'
+2023-10-27_19:57:30.51755 127.0.0.1 - - [27/Oct/2023:19:57:29 UTC] "GET /sidekiq HTTP/1.1" 500 240396
+2023-10-27_19:57:30.51843 - -> /sidekiq
+2023-10-27_19:57:30.85819 127.0.0.1 - - [27/Oct/2023:19:57:30 UTC] "GET /ruby HTTP/1.1" 200 1085
+2023-10-27_19:57:30.85821 - -> /ruby
+2023-10-27_19:57:36.94623 127.0.0.1 - - [27/Oct/2023:19:57:36 UTC] "GET /database HTTP/1.1" 200 1856
+2023-10-27_19:57:36.99830 - -> /database
+2023-10-27_19:57:45.57962 127.0.0.1 - - [27/Oct/2023:19:57:44 UTC] "GET /sidekiq HTTP/1.1" 200 119350
+2023-10-27_19:57:45.57965 - -> /sidekiq
+2023-10-27_19:57:45.78490 127.0.0.1 - - [27/Oct/2023:19:57:45 UTC] "GET /ruby HTTP/1.1" 200 1082
+2023-10-27_19:57:45.78626 - -> /ruby
+2023-10-27_19:57:49.30638 == Sinatra has ended his set (crowd applauds)
+2023-10-27_19:57:49.34614 [2023-10-27 19:57:49] INFO  going to shutdown ...
+2023-10-27_19:57:49.79152 [2023-10-27 19:57:49] INFO  WEBrick::HTTPServer#start done.

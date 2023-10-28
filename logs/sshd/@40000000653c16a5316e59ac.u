@@ -1,0 +1,66 @@
+2023-10-26_19:41:36.45053 Server listening on 0.0.0.0 port 22.
+2023-10-26_19:41:36.45072 Server listening on :: port 22.
+2023-10-26_20:53:06.84185 Accepted publickey for git from 172.18.0.1 port 44806 ssh2: RSA SHA256:tAI2+mHK9OgH6P20ZQltEcD3yJb7eINgdzZlw04eJ2U
+2023-10-26_20:53:13.17061 Received disconnect from 172.18.0.1 port 44806:11: disconnected by user
+2023-10-26_20:53:13.17082 Disconnected from user git 172.18.0.1 port 44806
+2023-10-27_15:35:14.23141 Accepted publickey for git from 172.18.0.1 port 52462 ssh2: RSA SHA256:tAI2+mHK9OgH6P20ZQltEcD3yJb7eINgdzZlw04eJ2U
+2023-10-27_15:35:15.50507 Received disconnect from 172.18.0.1 port 52462:11: disconnected by user
+2023-10-27_15:35:15.50703 Disconnected from user git 172.18.0.1 port 52462
+2023-10-27_15:43:02.16028 Accepted publickey for git from 172.18.0.1 port 40092 ssh2: RSA SHA256:tAI2+mHK9OgH6P20ZQltEcD3yJb7eINgdzZlw04eJ2U
+2023-10-27_15:43:05.45626 Received disconnect from 172.18.0.1 port 40092:11: disconnected by user
+2023-10-27_15:43:05.45749 Disconnected from user git 172.18.0.1 port 40092
+2023-10-27_15:53:01.76709 Accepted publickey for git from 172.18.0.1 port 58726 ssh2: RSA SHA256:tAI2+mHK9OgH6P20ZQltEcD3yJb7eINgdzZlw04eJ2U
+2023-10-27_15:53:03.17603 Received disconnect from 172.18.0.1 port 58726:11: disconnected by user
+2023-10-27_15:53:03.17605 Disconnected from user git 172.18.0.1 port 58726
+2023-10-27_15:58:56.24815 Accepted publickey for git from 172.18.0.1 port 50816 ssh2: RSA SHA256:tAI2+mHK9OgH6P20ZQltEcD3yJb7eINgdzZlw04eJ2U
+2023-10-27_15:58:58.27724 Received disconnect from 172.18.0.1 port 50816:11: disconnected by user
+2023-10-27_15:58:58.27734 Disconnected from user git 172.18.0.1 port 50816
+2023-10-27_16:04:23.39328 Accepted publickey for git from 172.18.0.1 port 59824 ssh2: RSA SHA256:tAI2+mHK9OgH6P20ZQltEcD3yJb7eINgdzZlw04eJ2U
+2023-10-27_16:04:25.80703 Received disconnect from 172.18.0.1 port 59824:11: disconnected by user
+2023-10-27_16:04:25.80705 Disconnected from user git 172.18.0.1 port 59824
+2023-10-27_16:07:49.44390 Accepted publickey for git from 172.18.0.1 port 59548 ssh2: RSA SHA256:tAI2+mHK9OgH6P20ZQltEcD3yJb7eINgdzZlw04eJ2U
+2023-10-27_16:07:52.68206 Received disconnect from 172.18.0.1 port 59548:11: disconnected by user
+2023-10-27_16:07:52.68208 Disconnected from user git 172.18.0.1 port 59548
+2023-10-27_16:08:37.91985 Connection closed by 172.18.0.1 port 49526 [preauth]
+2023-10-27_16:10:38.67469 Accepted publickey for git from 172.18.0.1 port 39508 ssh2: RSA SHA256:tAI2+mHK9OgH6P20ZQltEcD3yJb7eINgdzZlw04eJ2U
+2023-10-27_16:10:40.97720 Received disconnect from 172.18.0.1 port 39508:11: disconnected by user
+2023-10-27_16:10:40.97722 Disconnected from user git 172.18.0.1 port 39508
+2023-10-27_16:15:02.08798 Accepted publickey for git from 172.18.0.1 port 49734 ssh2: RSA SHA256:tAI2+mHK9OgH6P20ZQltEcD3yJb7eINgdzZlw04eJ2U
+2023-10-27_16:15:04.80300 Received disconnect from 172.18.0.1 port 49734:11: disconnected by user
+2023-10-27_16:15:04.80303 Disconnected from user git 172.18.0.1 port 49734
+2023-10-27_16:17:36.26065 Accepted publickey for git from 172.18.0.1 port 54664 ssh2: RSA SHA256:tAI2+mHK9OgH6P20ZQltEcD3yJb7eINgdzZlw04eJ2U
+2023-10-27_16:17:38.30956 Received disconnect from 172.18.0.1 port 54664:11: disconnected by user
+2023-10-27_16:17:38.31219 Disconnected from user git 172.18.0.1 port 54664
+2023-10-27_16:22:13.91932 Accepted publickey for git from 172.18.0.1 port 51842 ssh2: RSA SHA256:tAI2+mHK9OgH6P20ZQltEcD3yJb7eINgdzZlw04eJ2U
+2023-10-27_16:22:14.27323 Received disconnect from 172.18.0.1 port 51842:11: disconnected by user
+2023-10-27_16:22:14.27328 Disconnected from user git 172.18.0.1 port 51842
+2023-10-27_16:27:01.91260 Accepted publickey for git from 172.18.0.1 port 39106 ssh2: RSA SHA256:tAI2+mHK9OgH6P20ZQltEcD3yJb7eINgdzZlw04eJ2U
+2023-10-27_16:27:03.21559 Received disconnect from 172.18.0.1 port 39106:11: disconnected by user
+2023-10-27_16:27:03.21561 Disconnected from user git 172.18.0.1 port 39106
+2023-10-27_16:31:10.04266 Accepted publickey for git from 172.18.0.1 port 45414 ssh2: RSA SHA256:tAI2+mHK9OgH6P20ZQltEcD3yJb7eINgdzZlw04eJ2U
+2023-10-27_16:31:11.56447 Received disconnect from 172.18.0.1 port 45414:11: disconnected by user
+2023-10-27_16:31:11.56449 Disconnected from user git 172.18.0.1 port 45414
+2023-10-27_16:31:43.24359 Connection closed by 172.18.0.1 port 48516 [preauth]
+2023-10-27_16:37:00.58050 Connection closed by 172.18.0.1 port 49270 [preauth]
+2023-10-27_16:43:29.77275 Connection closed by 172.18.0.1 port 53146 [preauth]
+2023-10-27_16:55:19.44028 Accepted publickey for git from 172.18.0.1 port 56314 ssh2: RSA SHA256:tAI2+mHK9OgH6P20ZQltEcD3yJb7eINgdzZlw04eJ2U
+2023-10-27_16:55:22.30041 Received disconnect from 172.18.0.1 port 56314:11: disconnected by user
+2023-10-27_16:55:22.30044 Disconnected from user git 172.18.0.1 port 56314
+2023-10-27_17:00:57.84001 Accepted publickey for git from 172.18.0.1 port 32832 ssh2: RSA SHA256:tAI2+mHK9OgH6P20ZQltEcD3yJb7eINgdzZlw04eJ2U
+2023-10-27_17:00:59.40560 Received disconnect from 172.18.0.1 port 32832:11: disconnected by user
+2023-10-27_17:00:59.40562 Disconnected from user git 172.18.0.1 port 32832
+2023-10-27_17:07:14.61478 Accepted publickey for git from 172.18.0.1 port 54826 ssh2: RSA SHA256:tAI2+mHK9OgH6P20ZQltEcD3yJb7eINgdzZlw04eJ2U
+2023-10-27_17:07:17.93548 Received disconnect from 172.18.0.1 port 54826:11: disconnected by user
+2023-10-27_17:07:17.93551 Disconnected from user git 172.18.0.1 port 54826
+2023-10-27_19:39:51.11377 Accepted publickey for git from 172.18.0.1 port 37746 ssh2: RSA SHA256:tAI2+mHK9OgH6P20ZQltEcD3yJb7eINgdzZlw04eJ2U
+2023-10-27_19:39:52.12885 Received disconnect from 172.18.0.1 port 37746:11: disconnected by user
+2023-10-27_19:39:52.12887 Disconnected from user git 172.18.0.1 port 37746
+2023-10-27_19:40:31.23042 Accepted publickey for git from 172.18.0.1 port 43958 ssh2: RSA SHA256:tAI2+mHK9OgH6P20ZQltEcD3yJb7eINgdzZlw04eJ2U
+2023-10-27_19:40:36.47131 Received disconnect from 172.18.0.1 port 43958:11: disconnected by user
+2023-10-27_19:40:36.47175 Disconnected from user git 172.18.0.1 port 43958
+2023-10-27_19:53:52.93390 Accepted publickey for git from 172.18.0.1 port 54048 ssh2: RSA SHA256:tAI2+mHK9OgH6P20ZQltEcD3yJb7eINgdzZlw04eJ2U
+2023-10-27_19:53:53.61006 Received disconnect from 172.18.0.1 port 54048:11: disconnected by user
+2023-10-27_19:53:53.61007 Disconnected from user git 172.18.0.1 port 54048
+2023-10-27_19:54:12.55419 Accepted publickey for git from 172.18.0.1 port 43984 ssh2: RSA SHA256:tAI2+mHK9OgH6P20ZQltEcD3yJb7eINgdzZlw04eJ2U
+2023-10-27_19:54:14.39258 Received disconnect from 172.18.0.1 port 43984:11: disconnected by user
+2023-10-27_19:54:14.39260 Disconnected from user git 172.18.0.1 port 43984

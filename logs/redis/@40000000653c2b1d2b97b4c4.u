@@ -1,0 +1,40 @@
+2023-10-27_21:13:42.65520 277:C 27 Oct 2023 21:13:42.654 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2023-10-27_21:13:42.65534 277:C 27 Oct 2023 21:13:42.655 # Redis version=7.0.13, bits=64, commit=49dbedb1, modified=1, pid=277, just started
+2023-10-27_21:13:42.65535 277:C 27 Oct 2023 21:13:42.655 # Configuration loaded
+2023-10-27_21:13:42.65569 277:M 27 Oct 2023 21:13:42.655 * monotonic clock: POSIX clock_gettime
+2023-10-27_21:13:42.65717                 _._                                                  
+2023-10-27_21:13:42.65718            _.-``__ ''-._                                             
+2023-10-27_21:13:42.65718       _.-``    `.  `_.  ''-._           Redis 7.0.13 (49dbedb1/1) 64 bit
+2023-10-27_21:13:42.65719   .-`` .-```.  ```\/    _.,_ ''-._                                  
+2023-10-27_21:13:42.65719  (    '      ,       .-`  | `,    )     Running in standalone mode
+2023-10-27_21:13:42.65719  |`-._`-...-` __...-.``-._|'` _.-'|     Port: 0
+2023-10-27_21:13:42.65719  |    `-._   `._    /     _.-'    |     PID: 277
+2023-10-27_21:13:42.65719   `-._    `-._  `-./  _.-'    _.-'                                   
+2023-10-27_21:13:42.65719  |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+2023-10-27_21:13:42.65720  |    `-._`-._        _.-'_.-'    |           https://redis.io       
+2023-10-27_21:13:42.65720   `-._    `-._`-.__.-'_.-'    _.-'                                   
+2023-10-27_21:13:42.65720  |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+2023-10-27_21:13:42.65720  |    `-._`-._        _.-'_.-'    |                                  
+2023-10-27_21:13:42.65720   `-._    `-._`-.__.-'_.-'    _.-'                                   
+2023-10-27_21:13:42.65720       `-._    `-.__.-'    _.-'                                       
+2023-10-27_21:13:42.65721           `-._        _.-'                                           
+2023-10-27_21:13:42.65721               `-.__.-'                                               
+2023-10-27_21:13:42.65721 
+2023-10-27_21:13:42.65722 277:M 27 Oct 2023 21:13:42.657 # Server initialized
+2023-10-27_21:13:42.65722 277:M 27 Oct 2023 21:13:42.657 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+2023-10-27_21:13:42.66000 277:M 27 Oct 2023 21:13:42.659 * Loading RDB produced by version 7.0.13
+2023-10-27_21:13:42.66000 277:M 27 Oct 2023 21:13:42.659 * RDB age 1657 seconds
+2023-10-27_21:13:42.66001 277:M 27 Oct 2023 21:13:42.659 * RDB memory usage when created 6.28 Mb
+2023-10-27_21:13:42.66665 277:M 27 Oct 2023 21:13:42.666 * Done loading RDB, keys loaded: 532, keys expired: 53.
+2023-10-27_21:13:42.66667 277:M 27 Oct 2023 21:13:42.666 * DB loaded from disk: 0.008 seconds
+2023-10-27_21:13:42.66667 277:M 27 Oct 2023 21:13:42.666 * The server is now ready to accept connections at /var/opt/gitlab/redis/redis.socket
+2023-10-27_21:18:43.07771 277:M 27 Oct 2023 21:18:43.073 * 10 changes in 300 seconds. Saving...
+2023-10-27_21:18:43.09120 277:M 27 Oct 2023 21:18:43.091 * Background saving started by pid 992
+2023-10-27_21:18:43.12788 992:C 27 Oct 2023 21:18:43.127 * DB saved on disk
+2023-10-27_21:18:43.12976 992:C 27 Oct 2023 21:18:43.129 * Fork CoW for RDB: current 2 MB, peak 2 MB, average 1 MB
+2023-10-27_21:18:43.19311 277:M 27 Oct 2023 21:18:43.192 * Background saving terminated with success
+2023-10-27_21:23:44.10998 277:M 27 Oct 2023 21:23:44.080 * 10 changes in 300 seconds. Saving...
+2023-10-27_21:23:44.11082 277:M 27 Oct 2023 21:23:44.105 * Background saving started by pid 1491
+2023-10-27_21:23:44.25061 1491:C 27 Oct 2023 21:23:44.249 * DB saved on disk
+2023-10-27_21:23:44.25323 1491:C 27 Oct 2023 21:23:44.250 * Fork CoW for RDB: current 2 MB, peak 2 MB, average 1 MB
+2023-10-27_21:23:44.31511 277:M 27 Oct 2023 21:23:44.314 * Background saving terminated with success

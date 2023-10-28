@@ -1,0 +1,1 @@
+2023/10/27 21:29:14 [error] 511#0: *82 upstream prematurely closed connection while reading response header from upstream, client: 172.24.0.1, server: 172.17.0.1, request: "GET /projects/new HTTP/1.1", upstream: "http://unix:/var/opt/gitlab/gitlab-workhorse/sockets/socket:/projects/new", host: "localhost", referrer: "http://localhost/"

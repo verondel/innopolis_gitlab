@@ -1,0 +1,26 @@
+{"build_time":"20231020.092615","level":"info","msg":"Starting","time":"2023-10-27T19:59:43Z","version":"v16.5.0"}
+{"address":"localhost:9229","level":"info","msg":"Running metrics server","network":"tcp","time":"2023-10-27T19:59:43Z"}
+{"level":"info","msg":"Using gomodule/redigo","time":"2023-10-27T19:59:43Z"}
+{"level":"info","msg":"keywatcher: starting process loop","time":"2023-10-27T19:59:43Z"}
+{"address":"/var/opt/gitlab/redis/redis.socket","level":"info","msg":"redis: dialing","network":"unix","time":"2023-10-27T19:59:43Z"}
+{"address":"/var/opt/gitlab/gitlab-workhorse/sockets/socket","level":"info","msg":"Running upstream server","network":"unix","time":"2023-10-27T19:59:43Z"}
+{"correlation_id":"","duration_ms":1,"error":"badgateway: failed to receive response: dial unix /var/opt/gitlab/gitlab-rails/sockets/gitlab.socket: connect: connection refused","level":"error","method":"GET","msg":"","time":"2023-10-27T19:59:43Z","uri":""}
+{"correlation_id":"","duration_ms":0,"error":"badgateway: failed to receive response: dial unix /var/opt/gitlab/gitlab-rails/sockets/gitlab.socket: connect: connection refused","level":"error","method":"GET","msg":"","time":"2023-10-27T19:59:53Z","uri":""}
+{"correlation_id":"","duration_ms":3,"error":"badgateway: failed to receive response: dial unix /var/opt/gitlab/gitlab-rails/sockets/gitlab.socket: connect: connection refused","level":"error","method":"GET","msg":"","time":"2023-10-27T20:00:03Z","uri":""}
+{"correlation_id":"","duration_ms":0,"error":"badgateway: failed to receive response: dial unix /var/opt/gitlab/gitlab-rails/sockets/gitlab.socket: connect: connection refused","level":"error","method":"GET","msg":"","time":"2023-10-27T20:00:13Z","uri":""}
+{"correlation_id":"01HDSBJ7VNGD9EFFC5F1GZ2K9X","duration_ms":0,"error":"badgateway: failed to receive response: dial unix /var/opt/gitlab/gitlab-rails/sockets/gitlab.socket: connect: connection refused","level":"error","method":"GET","msg":"","time":"2023-10-27T20:00:16Z","uri":"/help"}
+{"content_type":"text/html; charset=utf-8","correlation_id":"01HDSBJ7VNGD9EFFC5F1GZ2K9X","duration_ms":13,"host":"localhost","level":"info","method":"GET","msg":"access","proto":"HTTP/1.1","referrer":"","remote_addr":"127.0.0.1:0","remote_ip":"127.0.0.1","route":"","status":502,"system":"http","time":"2023-10-27T20:00:16Z","ttfb_ms":13,"uri":"/help","user_agent":"curl/8.4.0-DEV","written_bytes":3027}
+{"correlation_id":"","duration_ms":0,"error":"badgateway: failed to receive response: dial unix /var/opt/gitlab/gitlab-rails/sockets/gitlab.socket: connect: connection refused","level":"error","method":"GET","msg":"","time":"2023-10-27T20:00:23Z","uri":""}
+{"correlation_id":"","duration_ms":0,"error":"badgateway: failed to receive response: dial unix /var/opt/gitlab/gitlab-rails/sockets/gitlab.socket: connect: connection refused","level":"error","method":"GET","msg":"","time":"2023-10-27T20:00:33Z","uri":""}
+{"correlation_id":"","duration_ms":0,"error":"badgateway: failed to receive response: dial unix /var/opt/gitlab/gitlab-rails/sockets/gitlab.socket: connect: connection refused","level":"error","method":"GET","msg":"","time":"2023-10-27T20:00:43Z","uri":""}
+{"error":"keywatcher: pubsub receive: EOF","level":"error","msg":"","time":"2023-10-27T20:00:44Z"}
+{"address":"/var/opt/gitlab/redis/redis.socket","level":"info","msg":"redis: dialing","network":"unix","time":"2023-10-27T20:00:44Z"}
+{"content_type":"text/html; charset=utf-8","correlation_id":"01HDSBM2YNKMS2Z3QQFYXNFX92","duration_ms":1140,"host":"localhost","level":"info","method":"GET","msg":"access","proto":"HTTP/1.1","referrer":"","remote_addr":"127.0.0.1:0","remote_ip":"127.0.0.1","route":"","status":200,"system":"http","time":"2023-10-27T20:01:18Z","ttfb_ms":1124,"uri":"/help","user_agent":"curl/8.4.0-DEV","written_bytes":36850}
+{"error":"keywatcher: pubsub receive: EOF","level":"error","msg":"","time":"2023-10-27T20:01:45Z"}
+{"address":"/var/opt/gitlab/redis/redis.socket","level":"info","msg":"redis: dialing","network":"unix","time":"2023-10-27T20:01:45Z"}
+{"content_type":"text/html; charset=utf-8","correlation_id":"01HDSBNZ1HJKS4D3EZ739JZAAY","duration_ms":231,"host":"localhost","level":"info","method":"GET","msg":"access","proto":"HTTP/1.1","referrer":"","remote_addr":"127.0.0.1:0","remote_ip":"127.0.0.1","route":"","status":200,"system":"http","time":"2023-10-27T20:02:19Z","ttfb_ms":225,"uri":"/help","user_agent":"curl/8.4.0-DEV","written_bytes":36850}
+{"error":"keywatcher: pubsub receive: EOF","level":"error","msg":"","time":"2023-10-27T20:02:48Z"}
+{"address":"/var/opt/gitlab/redis/redis.socket","level":"info","msg":"redis: dialing","network":"unix","time":"2023-10-27T20:02:48Z"}
+{"content_type":"text/html; charset=utf-8","correlation_id":"01HDSBQT0MK3A5ZN9NCSJMZXWY","duration_ms":1301,"host":"localhost","level":"info","method":"GET","msg":"access","proto":"HTTP/1.1","referrer":"","remote_addr":"127.0.0.1:0","remote_ip":"127.0.0.1","route":"","status":200,"system":"http","time":"2023-10-27T20:03:20Z","ttfb_ms":1300,"uri":"/help","user_agent":"curl/8.4.0-DEV","written_bytes":36850}
+{"error":"keywatcher: pubsub receive: EOF","level":"error","msg":"","time":"2023-10-27T20:03:49Z"}
+{"address":"/var/opt/gitlab/redis/redis.socket","level":"info","msg":"redis: dialing","network":"unix","time":"2023-10-27T20:03:49Z"}

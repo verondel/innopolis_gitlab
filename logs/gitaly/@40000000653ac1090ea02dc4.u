@@ -1,0 +1,72 @@
+{"level":"info","msg":"Wrapper started","pid":537,"time":"2023-10-26T18:48:32.923Z","wrapper":537}
+{"level":"info","msg":"finding process","pid":537,"pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2023-10-26T18:48:32.923Z","wrapper":537}
+{"error":"open /var/opt/gitlab/gitaly/gitaly.pid: no such file or directory","level":"error","msg":"find process","pid":537,"time":"2023-10-26T18:48:32.923Z","wrapper":537}
+{"level":"info","msg":"spawning a process","pid":537,"time":"2023-10-26T18:48:32.923Z","wrapper":537}
+{"level":"info","msg":"monitoring process","pid":537,"process":543,"time":"2023-10-26T18:48:32.926Z","wrapper":537}
+{"latencies":[0.001,0.005,0.025,0.1,0.5,1,10,30,60,300,1500],"level":"info","msg":"grpc prometheus histograms enabled","pid":543,"time":"2023-10-26T18:48:33.820Z"}
+{"level":"info","msg":"Starting Gitaly","pid":543,"time":"2023-10-26T18:48:33.821Z","version":"16.5.0"}
+{"duration_ms":0,"level":"info","msg":"finished initializing cgroups","pid":543,"time":"2023-10-26T18:48:33.822Z"}
+{"duration_ms":745,"level":"info","msg":"finished unpacking auxiliary binaries","pid":543,"time":"2023-10-26T18:48:34.567Z"}
+{"duration_ms":0,"level":"info","msg":"finished initializing bootstrap","pid":543,"time":"2023-10-26T18:48:34.568Z"}
+{"duration_ms":0,"level":"info","msg":"finished initializing command factory","pid":543,"time":"2023-10-26T18:48:34.568Z"}
+{"duration_ms":43,"level":"info","msg":"finished detecting git version","pid":543,"time":"2023-10-26T18:48:34.612Z"}
+{"level":"info","msg":"counting repositories","pid":543,"time":"2023-10-26T18:48:34.613Z"}
+{"level":"info","msg":"starting to count repositories","pid":543,"storage_path":"/var/opt/gitlab/git-data/repositories","time":"2023-10-26T18:48:34.614Z"}
+{"counting_duration":803458,"level":"info","msg":"completed counting repositories","pid":543,"storage_path":"/var/opt/gitlab/git-data/repositories","time":"2023-10-26T18:48:34.615Z"}
+{"counting_duration":861631,"level":"info","msg":"completed counting all repositories","pid":543,"time":"2023-10-26T18:48:34.615Z"}
+{"level":"info","msg":"finished tempdir cleaner walk","pid":543,"storage":"default","time":"2023-10-26T18:48:34.615Z","time_ms":0}
+{"level":"info","msg":"clearing disk cache object folder","pid":543,"storage":"default","time":"2023-10-26T18:48:34.619Z"}
+{"cache_directory":"/var/opt/gitlab/git-data/repositories/+gitaly/tmp/diskcache485138955","level":"info","msg":"moving disk cache object folder","pid":543,"storage":"default","time":"2023-10-26T18:48:34.619Z"}
+{"cache_directory":"/var/opt/gitlab/git-data/repositories/+gitaly/tmp/diskcache485138955","level":"info","msg":"disk cache object folder doesn't exist, no need to remove","pid":543,"storage":"default","time":"2023-10-26T18:48:34.619Z"}
+{"disk_cache_path":"/var/opt/gitlab/git-data/repositories/+gitaly/cache","level":"info","msg":"Starting file walker","path":"/var/opt/gitlab/git-data/repositories/+gitaly/cache","pid":543,"time":"2023-10-26T18:48:34.619Z"}
+{"disk_cache_path":"/var/opt/gitlab/git-data/repositories/+gitaly/state","level":"info","msg":"Starting file walker","path":"/var/opt/gitlab/git-data/repositories/+gitaly/state","pid":543,"time":"2023-10-26T18:48:34.619Z"}
+{"cache_directory":"/var/opt/gitlab/git-data/repositories/+gitaly/tmp/diskcache485138955","clear_duration":41641,"level":"info","msg":"cleared all cache object files","pid":543,"storage":"default","time":"2023-10-26T18:48:34.620Z"}
+{"level":"info","msg":"[core] [Server #1] Server created","pid":543,"system":"system","time":"2023-10-26T18:48:34.623Z"}
+{"level":"info","msg":"[core] [Server #2] Server created","pid":543,"system":"system","time":"2023-10-26T18:48:34.638Z"}
+{"address":"/var/opt/gitlab/gitaly/gitaly.socket","level":"info","msg":"listening at address","pid":543,"schema":"unix","time":"2023-10-26T18:48:34.654Z"}
+{"address":"/var/opt/gitlab/gitaly/run/gitaly-543/sock.d/intern","level":"info","msg":"listening at address","pid":543,"schema":"unix","time":"2023-10-26T18:48:34.654Z"}
+{"level":"info","msg":"[core] [Server #1 ListenSocket #3] ListenSocket created","pid":543,"system":"system","time":"2023-10-26T18:48:34.695Z"}
+{"level":"info","msg":"[core] [Server #2 ListenSocket #4] ListenSocket created","pid":543,"system":"system","time":"2023-10-26T18:48:34.700Z"}
+{"address":"localhost:9236","level":"info","msg":"starting prometheus listener","pid":543,"time":"2023-10-26T18:48:34.710Z"}
+{"level":"info","msg":"maintenance: daily scheduled","pid":543,"scheduled":"2023-10-27T12:00:00Z","time":"2023-10-26T18:48:34.741Z"}
+{"duration_ms":5799,"level":"info","msg":"License database preloaded","pid":543,"time":"2023-10-26T18:48:39.621Z"}
+{"level":"warning","msg":"forwarding signal","pid":537,"process":543,"signal":1,"time":"2023-10-26T18:52:19.626Z","wrapper":537}
+{"latencies":[0.001,0.005,0.025,0.1,0.5,1,10,30,60,300,1500],"level":"info","msg":"grpc prometheus histograms enabled","pid":1147,"time":"2023-10-26T18:52:21.504Z"}
+{"level":"info","msg":"Starting Gitaly","pid":1147,"time":"2023-10-26T18:52:21.507Z","version":"16.5.0"}
+{"duration_ms":0,"level":"info","msg":"finished initializing cgroups","pid":1147,"time":"2023-10-26T18:52:21.552Z"}
+{"duration_ms":2484,"level":"info","msg":"finished unpacking auxiliary binaries","pid":1147,"time":"2023-10-26T18:52:24.038Z"}
+{"duration_ms":0,"level":"info","msg":"finished initializing bootstrap","pid":1147,"time":"2023-10-26T18:52:24.038Z"}
+{"duration_ms":30,"level":"info","msg":"finished initializing command factory","pid":1147,"time":"2023-10-26T18:52:24.068Z"}
+{"duration_ms":258,"level":"info","msg":"finished detecting git version","pid":1147,"time":"2023-10-26T18:52:24.328Z"}
+{"level":"info","msg":"counting repositories","pid":1147,"time":"2023-10-26T18:52:24.346Z"}
+{"level":"info","msg":"starting to count repositories","pid":1147,"storage_path":"/var/opt/gitlab/git-data/repositories","time":"2023-10-26T18:52:24.347Z"}
+{"counting_duration":3635592,"level":"info","msg":"completed counting repositories","pid":1147,"storage_path":"/var/opt/gitlab/git-data/repositories","time":"2023-10-26T18:52:24.350Z"}
+{"counting_duration":3743512,"level":"info","msg":"completed counting all repositories","pid":1147,"time":"2023-10-26T18:52:24.350Z"}
+{"level":"info","msg":"clearing disk cache object folder","pid":1147,"storage":"default","time":"2023-10-26T18:52:24.355Z"}
+{"level":"info","msg":"finished tempdir cleaner walk","pid":1147,"storage":"default","time":"2023-10-26T18:52:24.464Z","time_ms":113}
+{"cache_directory":"/var/opt/gitlab/git-data/repositories/+gitaly/tmp/diskcache4005844554","level":"info","msg":"moving disk cache object folder","pid":1147,"storage":"default","time":"2023-10-26T18:52:24.479Z"}
+{"cache_directory":"/var/opt/gitlab/git-data/repositories/+gitaly/tmp/diskcache4005844554","level":"info","msg":"disk cache object folder doesn't exist, no need to remove","pid":1147,"storage":"default","time":"2023-10-26T18:52:24.507Z"}
+{"disk_cache_path":"/var/opt/gitlab/git-data/repositories/+gitaly/cache","level":"info","msg":"Starting file walker","path":"/var/opt/gitlab/git-data/repositories/+gitaly/cache","pid":1147,"time":"2023-10-26T18:52:24.510Z"}
+{"disk_cache_path":"/var/opt/gitlab/git-data/repositories/+gitaly/state","level":"info","msg":"Starting file walker","path":"/var/opt/gitlab/git-data/repositories/+gitaly/state","pid":1147,"time":"2023-10-26T18:52:24.522Z"}
+{"cache_directory":"/var/opt/gitlab/git-data/repositories/+gitaly/tmp/diskcache4005844554","clear_duration":11019039,"level":"info","msg":"cleared all cache object files","pid":1147,"storage":"default","time":"2023-10-26T18:52:24.565Z"}
+{"level":"info","msg":"[core] [Server #1] Server created","pid":1147,"system":"system","time":"2023-10-26T18:52:24.717Z"}
+{"level":"info","msg":"[core] [Server #2] Server created","pid":1147,"system":"system","time":"2023-10-26T18:52:25.066Z"}
+{"address":"/var/opt/gitlab/gitaly/gitaly.socket","level":"info","msg":"listening at address","pid":1147,"schema":"unix","time":"2023-10-26T18:52:25.068Z"}
+{"address":"/var/opt/gitlab/gitaly/run/gitaly-1147/sock.d/intern","level":"info","msg":"listening at address","pid":1147,"schema":"unix","time":"2023-10-26T18:52:25.068Z"}
+{"address":"localhost:9236","level":"info","msg":"starting prometheus listener","pid":1147,"time":"2023-10-26T18:52:25.068Z"}
+{"level":"warning","msg":"starting grace period","pid":543,"time":"2023-10-26T18:52:25.075Z"}
+{"level":"info","msg":"[core] [Server #1 ListenSocket #3] ListenSocket deleted","pid":543,"system":"system","time":"2023-10-26T18:52:25.076Z"}
+{"level":"info","msg":"[core] [Server #2 ListenSocket #4] ListenSocket deleted","pid":543,"system":"system","time":"2023-10-26T18:52:25.079Z"}
+{"level":"info","msg":"Upgrade succeeded","pid":543,"time":"2023-10-26T18:52:25.075Z"}
+{"level":"info","msg":"[core] [Server #1 ListenSocket #3] ListenSocket created","pid":1147,"system":"system","time":"2023-10-26T18:52:25.081Z"}
+{"level":"info","msg":"[core] [Server #2 ListenSocket #4] ListenSocket created","pid":1147,"system":"system","time":"2023-10-26T18:52:25.081Z"}
+{"level":"info","msg":"maintenance: daily scheduled","pid":1147,"scheduled":"2023-10-27T12:00:00Z","time":"2023-10-26T18:52:25.113Z"}
+unclean Gitaly shutdown: graceful upgrade: completed
+{"level":"warning","msg":"forwarding signal","pid":537,"process":543,"signal":17,"time":"2023-10-26T18:52:25.285Z","wrapper":537}
+{"error":"exit status 1","level":"error","msg":"waiting for supervised command","pid":537,"time":"2023-10-26T18:52:25.301Z","wrapper":537}
+{"level":"error","msg":"wrapper for process shutting down","pid":537,"process":543,"time":"2023-10-26T18:52:25.323Z","wrapper":537}
+{"level":"info","msg":"Wrapper started","pid":1184,"time":"2023-10-26T18:52:25.740Z","wrapper":1184}
+{"level":"info","msg":"finding process","pid":1184,"pid_file":"/var/opt/gitlab/gitaly/gitaly.pid","time":"2023-10-26T18:52:25.740Z","wrapper":1184}
+{"level":"info","msg":"adopting a process","pid":1184,"time":"2023-10-26T18:52:25.807Z","wrapper":1184}
+{"level":"info","msg":"monitoring process","pid":1184,"process":1147,"time":"2023-10-26T18:52:25.807Z","wrapper":1184}
+{"duration_ms":16844,"level":"info","msg":"License database preloaded","pid":1147,"time":"2023-10-26T18:52:38.352Z"}

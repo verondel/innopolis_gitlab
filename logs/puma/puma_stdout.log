@@ -1,0 +1,24 @@
+{"timestamp":"2023-10-27T18:51:46.354Z","pid":330,"message":"! Terminating timed out worker (worker failed to check in within 60 seconds): 1952"}
+{"timestamp":"2023-10-27T18:52:36.281Z","pid":330,"message":"- Worker 1 (PID: 14607) booted in 48.48s, phase: 0"}
+{"timestamp":"2023-10-27T19:41:41.591Z","pid":330,"message":"! Terminating timed out worker (worker failed to check in within 60 seconds): 14607"}
+{"timestamp":"2023-10-27T19:42:24.996Z","pid":330,"message":"- Worker 1 (PID: 16210) booted in 42.68s, phase: 0"}
+{"timestamp":"2023-10-27T19:57:10.226Z","pid":330,"message":"! Terminating timed out worker (worker failed to check in within 60 seconds): 5672"}
+{"timestamp":"2023-10-27T19:57:10.468Z","pid":330,"message":"! Terminating timed out worker (worker failed to check in within 60 seconds): 16210"}
+=== puma startup: 2023-10-27 20:00:50 +0000 ===
+{"timestamp":"2023-10-27T20:00:50.543Z","pid":330,"message":"- Worker 0 (PID: 494) booted in 0.48s, phase: 0"}
+{"timestamp":"2023-10-27T20:00:50.588Z","pid":330,"message":"- Worker 1 (PID: 496) booted in 0.52s, phase: 0"}
+=== puma startup: 2023-10-27 20:22:38 +0000 ===
+{"timestamp":"2023-10-27T20:22:38.916Z","pid":439,"message":"- Worker 0 (PID: 644) booted in 0.73s, phase: 0"}
+{"timestamp":"2023-10-27T20:22:38.982Z","pid":439,"message":"- Worker 1 (PID: 646) booted in 0.78s, phase: 0"}
+=== puma startup: 2023-10-27 21:11:14 +0000 ===
+{"timestamp":"2023-10-27T21:11:14.985Z","pid":439,"message":"- Worker 0 (PID: 650) booted in 0.63s, phase: 0"}
+{"timestamp":"2023-10-27T21:11:15.013Z","pid":439,"message":"- Worker 1 (PID: 651) booted in 0.65s, phase: 0"}
+=== puma startup: 2023-10-27 21:15:15 +0000 ===
+{"timestamp":"2023-10-27T21:15:16.196Z","pid":443,"message":"- Worker 1 (PID: 648) booted in 0.61s, phase: 0"}
+{"timestamp":"2023-10-27T21:15:16.480Z","pid":443,"message":"- Worker 0 (PID: 646) booted in 0.92s, phase: 0"}
+=== puma startup: 2023-10-27 21:28:17 +0000 ===
+{"timestamp":"2023-10-27T21:28:18.595Z","pid":439,"message":"- Worker 1 (PID: 646) booted in 0.78s, phase: 0"}
+{"timestamp":"2023-10-27T21:28:18.799Z","pid":439,"message":"- Worker 0 (PID: 644) booted in 1.0s, phase: 0"}
+=== puma startup: 2023-10-28 17:26:10 +0000 ===
+{"timestamp":"2023-10-28T17:26:11.891Z","pid":319,"message":"- Worker 0 (PID: 506) booted in 1.43s, phase: 0"}
+{"timestamp":"2023-10-28T17:26:11.926Z","pid":319,"message":"- Worker 1 (PID: 508) booted in 1.42s, phase: 0"}
